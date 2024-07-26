@@ -3,8 +3,8 @@ tenho 20 anos e sou acadêmico de análise e desenvolvimento de sistemas.
 
 ### EXPERIÊNCIAS PROFISSSIONAIS
 
-### técnico help desk - 9 meses;
-### desenvolvedor backend nodejs - 2 meses;
+### técnico help desk - 1 ano;
+### desenvolvedor backend nodejs e cloud soluction - 4 meses;
 
 <!--Imagem-->
 ### TECNOLOGIAS QUE UTILIZO DURANTE MINHA TRILHA DE APRENDIZADO 
