@@ -1,10 +1,10 @@
 ## Olá! me chamo vinicius marques
-tenho 20 anos e sou acadêmico de análise e desenvolvimento de sistemas.
+tenho 22 anos e sou acadêmico de análise e desenvolvimento de sistemas.
 
 ### EXPERIÊNCIAS PROFISSSIONAIS
-
-### técnico help desk - 1 ano;
-### desenvolvedor backend nodejs e cloud soluction - 4 meses;
+### Assitente de TI - 1 ano e 4 meses;
+### técnico help desk - 1 ano e 3 meses;
+### desenvolvedor backend nodejs e cloud soluction - 6 meses;
 
 <!--Imagem-->
 ### TECNOLOGIAS QUE UTILIZO DURANTE MINHA TRILHA DE APRENDIZADO 
